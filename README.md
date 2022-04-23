@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharooq-Shameen
 - 👀 I’m interested in .... <strong>NOTHING</strong>.
-- 🌱 I’m currently learning .... <strong>EVERITHING</strong>.
+- 🌱 I’m currently learning .... <strong>EVERYTHING</strong>.
 - 💞️ I’m looking to collaborate on ....<strong>NO ONE</strong>.
 - 📫 How to reach me ....<strong>Sorry !. YOU CAN'T FIND ME</strong>.
 
