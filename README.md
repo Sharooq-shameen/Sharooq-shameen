@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sharooq-Shameen
-- 👀 I’m interested in .... <strong>NOTHING</strong>.
+- 👋 Hi, I’m <strong>@Sharooq-Shameen</strong>.
+- 🌏 I'm Currently <strong>Somewhere between better and best</strong>.
+- 👀 I’m interested in .... <strong>SOMETHING</strong>.
 - 🌱 I’m currently learning .... <strong>EVERYTHING</strong>.
-- 💞️ I’m looking to collaborate on ....<strong>NO ONE</strong>.
-- 📫 How to reach me ....<strong>Sorry !. YOU CAN'T FIND ME</strong>.
+- 💞️ I’m not looking to collaborate on ....<strong>ANYTHING</strong>.
+- 📫 How to reach me ....<strong>LET'S TRY</strong>.
 
 <!---
 Sharooq-shameen/Sharooq-shameen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
